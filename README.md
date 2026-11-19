@@ -1,2 +1,2 @@
-# konfig-exercises
-Git remote repositories and branching excercises
+# Project developed by Developer 1
+Git remote repositories and branching exercises
